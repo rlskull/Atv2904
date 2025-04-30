@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+body{
+    background-color: #d3f8e2;
+    margin: 0%;
+}
+
+header{
+    /*background-color: rgb(249, 126, 233);*/
+    width: 1000px;
+    height: 70px;
+    margin: auto;
+}
+
+nav{
+    /*background-color: rgb(105, 243, 105);*/
+    width: 300px;
+    height: 45px;
+    float: right;
+    padding: 25px 25px 0 60px;
+}
+
+#imgLogo{
+    background-color: #d3f8e2;
+    width: 400px;
+    height: 70px;
+}
+
+#logoNome{
+    color: #2a2e45;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 0 0 0px;
+}
+
+/*Criando um banner*/
+#banner{
+    /*background-color: rgb(243, 243, 52);*/
+    background-image: url(../IMG/banner.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+
+/*Section 01 sobre*/
+#containerSobre{
+    /*background-color: rgb(238, 94, 118);*/
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+}
+
+#txtSobre{
+    /*background-color: blue;*/
+    width: 600px;
+    height: 400px;
+    float: right;
+}
+
+#imgSobre{
+    /*background-color: aquamarine;*/
+    width: 350px;
+    height: 400px;
+}
+
+#ajimgSobre{
+    width: 350px;
+    height: 250px;
+}
+
+h2{
+    color:crimson;
+    text-align: center;
+}
