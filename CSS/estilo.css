@@ -65,9 +65,11 @@ nav{
 #ajimgSobre{
     width: 350px;
     height: 250px;
+    /*Você pode descer um pouco para não ficar grudado com a borda da imagem superior. Usa o padding*/
 }
 
 h2{
     color:crimson;
     text-align: center;
+    /*Você pode descer um pouco para não ficar grudado com a borda da imagem superior. Usa o padding*/
 }
